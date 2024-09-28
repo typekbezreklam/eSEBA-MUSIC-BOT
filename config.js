@@ -22,8 +22,9 @@
 
 
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""], 
+  TOKEN: "MTI4OTY5MDU3ODM4NDMyNjc2OA.GPSrFJ.IFCE57tJQGfwfafxWHByXJhd9a2Mh0o232K9Q8
+",
+  ownerID: ["415578604613664798", ""], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
@@ -41,9 +42,9 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "lava-v3.ajieblogs.eu.org",
+        host: "lava3.horizxon.studio",
         port: 80,
-        password: "https://dsc.gg/ajidevserver",
+        password: "horizxon.studio",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
